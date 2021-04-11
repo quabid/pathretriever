@@ -38,11 +38,4 @@ public class FileChooser {
         mjf.dispose();
         return filePath;
     }
-    /*
-     * public static void main(String[] args) { FileChooser fc = new FileChooser();
-     * String path = null;
-     * 
-     * if (null != (path = fc.chooseFile())) { System.out.println("User Chose: " +
-     * path); } }
-     */
 }
