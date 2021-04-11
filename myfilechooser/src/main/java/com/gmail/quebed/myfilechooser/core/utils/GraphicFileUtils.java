@@ -2,7 +2,7 @@ package com.gmail.quebed.myfilechooser.core.utils;
 
 import java.io.File;
 
-public class GraphicUtils {
+public class GraphicFileUtils {
 
     public final static String jpeg = "jpeg";
     public final static String jpg = "jpg";
